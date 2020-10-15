@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-servlet/01-servlet.iml" filepath="$PROJECT_DIR$/01-servlet/01-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-servlet_mysql/02-servlet_mysql.iml" filepath="$PROJECT_DIR$/02-servlet_mysql/02-servlet_mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-servlet-会话跟踪技术/03-servlet-会话跟踪技术.iml" filepath="$PROJECT_DIR$/03-servlet-会话跟踪技术/03-servlet-会话跟踪技术.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-servlet-会话跟踪技术/A_URL重写/A_URL重写.iml" filepath="$PROJECT_DIR$/03-servlet-会话跟踪技术/A_URL重写/A_URL重写.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-servlet-会话跟踪技术/B_隐藏表单域/B_隐藏表单域.iml" filepath="$PROJECT_DIR$/03-servlet-会话跟踪技术/B_隐藏表单域/B_隐藏表单域.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyJavaWebCourse.iml" filepath="$PROJECT_DIR$/MyJavaWebCourse.iml" />
+    </modules>
+  </component>
+</project>
