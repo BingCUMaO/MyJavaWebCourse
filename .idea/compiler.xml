@@ -9,6 +9,7 @@
         <module name="A_URL重写" />
         <module name="B_隐藏表单域" />
         <module name="01-servlet" />
+        <module name="C_Cookie" />
         <module name="02-servlet_mysql" />
       </profile>
     </annotationProcessing>
@@ -20,6 +21,7 @@
       <module name="03-servlet_url重写（城市十大景点）" target="8" />
       <module name="A_URL重写" target="8" />
       <module name="B_隐藏表单域" target="8" />
+      <module name="C_Cookie" target="8" />
       <module name="MyJavaWebCourse" target="8" />
     </bytecodeTargetLevel>
   </component>
