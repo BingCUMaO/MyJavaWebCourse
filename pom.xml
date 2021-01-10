@@ -17,6 +17,11 @@
         <module>03-servlet-会话跟踪技术/A_URL重写</module>
         <module>03-servlet-会话跟踪技术/B_隐藏表单域</module>
         <module>03-servlet-会话跟踪技术/C_Cookie</module>
+        <module>D_HttpSession</module>
+        <module>03-servlet-会话跟踪技术/D_HttpSession</module>
+        <module>04-servlet-上下文与通讯</module>
+        <module>05-jsp-课堂练习</module>
+        <module>06-jsp-include指令</module>
     </modules>
 
     <dependencies>

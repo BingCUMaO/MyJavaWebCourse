@@ -5,9 +5,13 @@
       <module fileurl="file://$PROJECT_DIR$/01-servlet/01-servlet.iml" filepath="$PROJECT_DIR$/01-servlet/01-servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-servlet_mysql/02-servlet_mysql.iml" filepath="$PROJECT_DIR$/02-servlet_mysql/02-servlet_mysql.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-servlet-会话跟踪技术/03-servlet-会话跟踪技术.iml" filepath="$PROJECT_DIR$/03-servlet-会话跟踪技术/03-servlet-会话跟踪技术.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-servlet-上下文与通讯/04-servlet-上下文与通讯.iml" filepath="$PROJECT_DIR$/04-servlet-上下文与通讯/04-servlet-上下文与通讯.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-jsp-课堂练习/05-jsp-课堂练习.iml" filepath="$PROJECT_DIR$/05-jsp-课堂练习/05-jsp-课堂练习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-jsp-include指令/06-jsp-include指令.iml" filepath="$PROJECT_DIR$/06-jsp-include指令/06-jsp-include指令.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-servlet-会话跟踪技术/A_URL重写/A_URL重写.iml" filepath="$PROJECT_DIR$/03-servlet-会话跟踪技术/A_URL重写/A_URL重写.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-servlet-会话跟踪技术/B_隐藏表单域/B_隐藏表单域.iml" filepath="$PROJECT_DIR$/03-servlet-会话跟踪技术/B_隐藏表单域/B_隐藏表单域.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-servlet-会话跟踪技术/C_Cookie/C_Cookie.iml" filepath="$PROJECT_DIR$/03-servlet-会话跟踪技术/C_Cookie/C_Cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-servlet-会话跟踪技术/D_HttpSession/D_HttpSession.iml" filepath="$PROJECT_DIR$/03-servlet-会话跟踪技术/D_HttpSession/D_HttpSession.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyJavaWebCourse.iml" filepath="$PROJECT_DIR$/MyJavaWebCourse.iml" />
     </modules>
   </component>

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="06-jsp-include指令:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/06_jsp_include_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="06-jsp-include指令/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="06-jsp-include指令" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

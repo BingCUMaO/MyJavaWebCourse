@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/03-servlet-会话跟踪技术/pom.xml" />
         <option value="$PROJECT_DIR$/03-servlet_url重写（城市十大景点）/pom.xml" />
         <option value="$PROJECT_DIR$/A_URL重写/pom.xml" />
+        <option value="$PROJECT_DIR$/D_HttpSession/pom.xml" />
       </set>
     </option>
   </component>
